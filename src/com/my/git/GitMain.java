@@ -5,8 +5,9 @@ public class GitMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("my first ever project in GIT");
-
+		System.out.println("my first ever projecdet in GIT");
+        System.out.println("for appt changes");
+        System.out.println("appt changes2");
 	}
 
 }
