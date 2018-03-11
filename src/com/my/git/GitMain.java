@@ -7,8 +7,10 @@ public class GitMain {
 		
 		System.out.println("my first ever projecdet in GIT");
        
-        System.out.println("appt ch");
-        System.out.println("appt5");
+        
+        System.out.println("appt");
+        System.out.println("for appt changes");
+        
 	}
 
 }
