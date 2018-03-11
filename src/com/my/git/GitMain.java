@@ -8,8 +8,8 @@ public class GitMain {
 		System.out.println("my first ever projecdet in GIT");
        
         
-        System.out.println("appt");
-        System.out.println("for appt changes");
+        System.out.println("apptmasermaserrrrrsssss");
+        System.out.println("for appt changestester33");
 
         System.out.println("br1");
         
